@@ -1,16 +1,56 @@
-### Seja Muito Bem Vindo ao meu cantinho dos projetos
+# 👋 Olá, eu sou Nathan Vieira
 
-<!--
-**naytanvieira/naytanvieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desenvolvedor focado em criar soluções modernas, escaláveis e eficientes.
 
-Here are some ideas to get you started:
+Tenho experiência no desenvolvimento de aplicações web, automações e infraestrutura, trabalhando com tecnologias que vão desde o backend robusto até interfaces modernas e performáticas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tecnologias que utilizo
+
+### Backend
+- 🐘 PHP
+- 🐍 Python
+- ⚙️ APIs REST
+- 🗄️ MySQL / PostgreSQL
+
+### Frontend
+- ⚛️ React.js
+- ⚡ Next.js
+- 🎨 Tailwind CSS
+- 🧩 JavaScript / TypeScript
+
+### Infraestrutura & DevOps
+- 🐳 Docker
+- ☁️ Deploy em Vercel / Hostinger / VPS
+- 🔄 CI/CD
+- 🔐 Git & GitHub
+
+---
+
+## 🚀 O que eu faço
+
+✔️ Desenvolvimento de sistemas web  
+✔️ Landing pages de alta conversão  
+✔️ Automações com Python  
+✔️ Integrações com APIs  
+✔️ Dashboards e relatórios inteligentes  
+✔️ Deploy e containerização com Docker  
+✔️ Soluções escaláveis para empresas
+
+---
+
+## 📌 Atualmente
+
+Estou focado em construir projetos modernos, performáticos e com excelente experiência para o usuário, sempre buscando unir tecnologia com resultado real para negócios.
+
+---
+
+## 📫 Contato
+
+📱 WhatsApp: 31 99301-4758  
+🌐 Site: tubaraotechbrasil.com.br
+
+---
+
+# ⚡ “Código bom resolve problema. Código excelente gera resultado.”
